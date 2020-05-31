@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/julien/GFR/ego_motion/gfr19d_ws/src/see_ego_motion_ukf/cmake-build-debug/devel/setup.sh

@@ -1,0 +1,11 @@
+std_msgs/Header header
+bool valid
+float64 yaw_rate
+float64 velocity
+float64 acceleration
+float64 x_std
+float64 y_std
+float64 yaw_std
+float64 yaw_rate_std
+float64 velocity_std
+float64 acceleration_std

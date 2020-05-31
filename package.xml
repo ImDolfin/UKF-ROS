@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>see_ego_motion_ukf</name>
+  <version>0.1.0</version>
+  <description>GFR driverless see_ego_motion</description>
+  <maintainer email="adrian.gross@global-formula-racing.com">Adrian Gross</maintainer>
+  <maintainer email="julien.jakob@global-formula-racing.com">Julien Jakob</maintainer>
+  <license>todo</license>
+  <author email="adrian.gross@global-formula-racing.com">Adrian Gross</author>
+  <author email="julien.jakob@global-formula-racing.com">Julien Jakob</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+  <depend>sensor_msgs</depend>
+  <depend>message_filters</depend>
+  <depend>gfr_common</depend>
+  <depend>eigen</depend>
+  <depend>nav_msgs</depend>
+</package>
